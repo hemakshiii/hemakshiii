@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Actively seeking opportunity as Web Developer and Software Developer.<br>📚 Completed B.E in Computer Engineeering (2023).<br>🎲 Fun fact:  Turning Coffee into Code.<br>🌈Interests: Building projects, Exploring new things, Art, Travel, Music.</p>
+<p align="left">✨ Actively seeking opportunity as Web Developer and Software Developer.<br>📚 Completed B.E in Computer Engineering (2023).<br>🎲 Fun fact:  Turning Coffee into Code.<br>🌈Interests: Building projects, Exploring new things, Art, Travel, Music.</p>
 
 ###
 
